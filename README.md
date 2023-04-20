@@ -42,6 +42,7 @@ Additionally, this project depends on the following Python libraries:
 - tkinter (version 8.6.12 or newer)
 - pyautogui (version 0.9.48 or newer)
 - pyperclip (version 1.8.2 or newer)
+- pyinstaller (version 5.10.1 or newer)
 
 These libraries will be installed automatically during the installation process described in the next section.
 
