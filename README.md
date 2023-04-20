@@ -61,6 +61,12 @@ To start the application, run the following command:
 python makrukthaianalysis.py
 ```
 
+To create a standalone executable, run the following command:
+
+```bash
+pyinstaller --onefile --windowed makrukthaianalysis.py
+```
+
 ## Acknowledgments
 
 I would like to express our gratitude to the following resources:
