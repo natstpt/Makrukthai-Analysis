@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess) board, designed to help users interact with and analyze their games. Users can input a FEN string, move pieces on the board, add or remove pieces, and analyze the board using external resources. The application also updates the FEN string based on the board's current state. Key features include:
+This project is a Tkinter-based GUI application for visualizing a Makrukthai (Thai Chess) board, designed to help users interact with and analyze their playing. Users can input a FEN string, move pieces on the board, add or remove pieces, and analyze the board using external resources. The application also updates the FEN string based on the board's current state. Key features include:
 
 - **8x8 grid**: The board features Thai characters as column labels and numbers as row labels for easy navigation.
 - **Drag and drop pieces**: High-quality piece images from [PlayOK](https://www.playok.com/th/makruk/) can be dragged and dropped onto the board.
