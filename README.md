@@ -1,6 +1,6 @@
 # Makrukthai-Analysis
 
-![Makrukthai Analysis Screenshot](https://raw.githubusercontent.com/natstpt/Makrukthai-Analysis/main/screenshot.png)
+![Makrukthai Analysis Screenshot](https://raw.githubusercontent.com/natstpt/Makrukthai-Analysis/main/screencapture.png)
 
 ## Description
 
