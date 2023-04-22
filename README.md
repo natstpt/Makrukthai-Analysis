@@ -26,6 +26,8 @@ These features work together to provide a user-friendly interface for visualizin
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
