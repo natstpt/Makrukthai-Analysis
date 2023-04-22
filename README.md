@@ -26,7 +26,6 @@ These features work together to provide a user-friendly interface for visualizin
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -69,10 +68,6 @@ To create a standalone executable, run the following command:
 ```bash
 pyinstaller --onefile --windowed makrukthaianalysis.py
 ```
-
-## Contributing
-
-Contributions are welcome! If you have any ideas or suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
