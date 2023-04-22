@@ -34,7 +34,7 @@ These features work together to provide a user-friendly interface for visualizin
 
 Before you can use this project, ensure that you have the following software, libraries, and tools installed on your system:
 
-1. [Python](https://www.python.org/) (version 3.10.8 or newer)
+1. [Python](https://www.python.org/) (version 3.9.13 or newer)
 2. [pip](https://pip.pypa.io/en/stable/installation/) (Python package manager)
 
 Additionally, this project depends on the following Python libraries:
